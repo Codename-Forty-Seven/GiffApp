@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GiffApp</string>
+    <string name="hint_search">Search</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="internet">Internet connection restored! You can return to searching</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
