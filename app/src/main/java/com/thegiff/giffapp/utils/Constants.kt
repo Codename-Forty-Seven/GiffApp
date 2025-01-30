@@ -1,7 +1,7 @@
 package com.thegiff.giffapp.utils
 
 object Constants {
-    const val API_KEY = "API_KEY"
+    const val API_KEY = "9w4f47FJzrEdPnZBvTlELp9QTiNbSISm"
     const val NAME_TABLE = "NAME_TABLE"
     const val DELETED_NAME_TABLE = "DELETED_NAME_TABLE"
 
