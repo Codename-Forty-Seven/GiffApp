@@ -7,4 +7,4 @@ Even without an Internet connection, the user can view previously downloaded ima
 The second screen is designed to view the selected GIF in full screen mode. Convenient navigation is also available - the user can scroll through other images by simply swiping horizontally across the screen.
 
 Also, you can download the APK file here:
-https://drive.google.com/drive/folders/1QojAYHtBsUCa-wvEqFXGGwYKodFoQeMZ?usp=sharing
+https://drive.google.com/drive/folders/1YHD9_0Kx7dh38Z2PgYo66WGXyiRMDlyo
